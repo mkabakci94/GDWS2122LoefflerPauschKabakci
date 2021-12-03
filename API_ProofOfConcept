@@ -1,8 +1,8 @@
 Überlegungen zu Event APIs:
-- ticketmaster discovery api
-- songkick api
+- ticketmaster discovery api (https://developer.ticketmaster.com/products-and-docs/apis/discovery-api/v2/)
+- songkick api (https://www.songkick.com/developer)
 - eventful api -> terminated in 2020, war meist verbreitetste event api
-  -> predictHQ api
+  -> predictHQ api (https://www.predicthq.com/apis)
 
 
 Proof of Concept:
