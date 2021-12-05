@@ -1,0 +1,7 @@
+
+Dienstgeber & Dienstnutzer
+
+-	REST
+-	Dienstgeber - Datenbank für User(private personen, studenten, schüler etc) mit Matching Algorithmus ( sucht nach bestimmten kriterien für den user was raus) 
+-	Matching: Ort, Interessen, Genres, Corona Regeln
+-	Dienstnutzer - Veranstaltungen
